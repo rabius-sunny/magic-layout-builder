@@ -1,5 +1,7 @@
 # Welcome to Magic Layout Project
 
+Stack: `react`, `typescript`
+
 ### Installation
 
 Clone the git repo
